@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhilt1903
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently working on data science projects
 - 📫 How to reach me ...nikhilt1903@gmail.com
 
 <!---
